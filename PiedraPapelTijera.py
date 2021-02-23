@@ -4,7 +4,7 @@ aleatorio = random.randrange(0, 3)
 eligePc = ""
 print("1) Piedra")
 print("2) Papel")
-print(") Tijera")
+print("3) Tijera")
 opcion = int(input("Qué eliges: "))
 
 if opcion == 1:
