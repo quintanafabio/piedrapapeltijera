@@ -1,0 +1,1 @@
+Se trata de un juego de Piedra Papel O Tijera programado en Python. Espero que les guste. 
