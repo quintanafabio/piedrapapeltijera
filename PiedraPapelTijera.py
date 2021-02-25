@@ -9,7 +9,7 @@ opcion = int(input("Qué eliges: "))
 
 if opcion == 1:
     eligeUsuario = "Piedra"
-elif opcion == 5:
+elif opcion == 2:
     eligeUsuario = "Papel"
 elif opcion == 3:
     eligeUsuario = "Tijera"
