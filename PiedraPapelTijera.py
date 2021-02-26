@@ -24,7 +24,7 @@ elif aleatorio == 2:
 print("PC eligio: ", eligeUsuario)
 print("...")
 if eligePc == "Piedra" and eligeUsuario == "Papel":
-    print("Perdiste, papel envuelve Piedra")
+    print("Ganaste, papel envuelve Piedra")
 elif eligePc == "Papel" and eligeUsuario == "Tijera":
     print("Ganaste, Tijera corta Papel")
 elif eligePc == "Tijera" and eligeUsuario == "Piedra":
